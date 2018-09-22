@@ -1,7 +1,4 @@
-## itomakiweb-corp
-
-
-### index
+# 情報一覧
 
 - [HOME](https://itomakiweb-corp.github.io/)
 - [事業計画](https://itomakiweb-corp.github.io/corp/)
